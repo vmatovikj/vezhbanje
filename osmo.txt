@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ova e moe
 
+=======
+ova e od jane
+>>>>>>> osmo
